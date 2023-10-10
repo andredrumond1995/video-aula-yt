@@ -1,0 +1,24 @@
+{
+  "name": "video-aula-yt",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao projeto onde você encontrará exemplos de commits que utilizam Git Semantic Commit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andredrumond1995/video-aula-yt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andredrumond1995/video-aula-yt/issues"
+  },
+  "homepage": "https://github.com/andredrumond1995/video-aula-yt#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
