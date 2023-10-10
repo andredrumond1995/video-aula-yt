@@ -30,4 +30,4 @@ Siga estas etapas para executar o projeto em sua máquina local.
 3. Rodando o Projeto
 
    ```bash
-   node server.js
+   npm start
